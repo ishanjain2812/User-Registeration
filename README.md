@@ -1,1 +1,1 @@
-Book Exchange Service
+User-Registeration Microservice for Book Exchange Platform
