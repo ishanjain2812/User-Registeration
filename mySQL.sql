@@ -1,5 +1,5 @@
 -- Create the database (schema)
-CREATE DATABASE IF NOT EXISTS book_exchange_db;
+CREATE DATABASE IF NOT EXISTS user_service_db;
 
 -- Use the database
 USE book_exchange_db;
