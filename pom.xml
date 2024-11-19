@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.fsad</groupId>
-	<artifactId>bookexchange</artifactId>
+	<artifactId>userservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bookexchange</name>
-	<description>BookExchangeService</description>
+	<name>UserService</name>
+	<description>User-Registeration-Service</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
